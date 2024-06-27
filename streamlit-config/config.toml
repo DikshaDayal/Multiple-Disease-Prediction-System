@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF4B4B"                  # Primary color for buttons, etc.
+backgroundColor = "#0E1117"               # Background color for the app
+secondaryBackgroundColor = "#262730"      # Secondary background color
+textColor = "#FAFAFA"                     # Text color
+font = "Sans serif"                       # Font family
